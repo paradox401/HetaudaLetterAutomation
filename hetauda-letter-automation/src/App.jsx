@@ -13,7 +13,7 @@ function ProtectedRoute({ children }) {
 export default function App() {
   return (
     <AuthProvider>
-      <Router basename="/hetauda-letter-automation">
+      <Router basename="/HetaudaLetterAutomation">
         <Routes>
           <Route path="/" element={<Login />} />
           <Route
