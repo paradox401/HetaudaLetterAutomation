@@ -19,7 +19,7 @@ export default function Dashboard() {
           <Card
             title="✍️ पत्र तयार गर्नुहोस्"
             subtitle="नयाँ पत्र बनाउने फारम"
-            link="/create"
+            link="HetaudaLetterAutomation/create"
             color="bg-blue-600"
           />
           <Card
