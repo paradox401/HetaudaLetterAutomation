@@ -4,6 +4,6 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: 'HetaudaLetterAutomation', // 👈 Replace with your repo name
+  base: '/HetaudaLetterAutomation/', // 👈 Replace with your repo name
 })
 
